@@ -5,32 +5,32 @@ This is repository is for containing the ICM group artefacts.
 
 1 Analyst
 ================================================================================
-1. Assumption--------------1.1 #Done
-2. User stories------------1.2 #Done
-3. Use Case Diagrams-------1.3 #Done
-4. Workflow----------------1.4 #Done
+1. Assumption--------------1.1 
+2. User stories------------1.2
+3. Use Case Diagrams-------1.3 
+4. Workflow----------------1.4 
 5. Initial Class Diagram---1.5 
-6. ERD---------------------1.6 #Done
+6. ERD---------------------1.6 
 
 
 
 2 Scrum Master
 ================================================================================
-1. Product Backlog-------------------2.1 #Done
-2. Sprint Backlog & Planning---------2.2 #Done
-3. Burndown Chart--------------------2.3 #Done
-4. Minutes of meeting----------------2.4 #Done
-5. Team responsibility matrix-------2.5 #Done
+1. Product Backlog-------------------2.1 
+2. Sprint Backlog & Planning---------2.2 
+3. Burndown Chart--------------------2.3 
+4. Minutes of meeting----------------2.4 
+5. Team responsibility matrix-------2.5 
 
 
 
 3 Designer
 ================================================================================
-1. Product sketches &  -------3.1 #Done
-2. Site UI----------------------------3.2 #Done
-3. Information Architecture-----------3.4 #Done
-4. Wireframe --------------------------3.5 #Done
-5. Implemented Navigation Menus ---------------------3.6 #Done
+1. Product sketches &  -------3.1 
+2. Site UI----------------------------3.2
+3. Information Architecture-----------3.4 
+4. Wireframe --------------------------3.5 
+5. Implemented Navigation Menus ---------------------3.6 
 
 
 4 Developer
